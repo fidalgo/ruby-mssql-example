@@ -1,0 +1,9 @@
+development:
+    adapter: sqlserver
+    mode: dblib
+    host: server
+    port: 1064
+    database: DATABASE
+    username: user
+    password: password
+    encoding: utf8
